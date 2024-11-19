@@ -1,18 +1,38 @@
+/* Font-face definitions for Aptos */
+@font-face {
+    font-family: 'Aptos';
+    src: url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Regular.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aptos';
+    src: url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Bold.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
 /* Style for the form container */
 .form-container {
-    font-family: Arial, sans-serif;
+    font-family: Aptos, Arial, sans-serif;
     margin: 20px;
 }
 
 h2 {
     font-size: 18px;
     color: #1D3447;
+    font-family: Aptos, Helvetica, Arial, sans-serif;
+    font-weight: bold;
 }
 
 label {
     font-size: 14px;
     color: #404040;
     margin-right: 10px;
+    font-family: Aptos, Arial, sans-serif;
 }
 
 input, select {
@@ -21,6 +41,7 @@ input, select {
     margin-bottom: 10px;
     border: 1px solid #ccc;
     width: 250px;
+    font-family: Aptos, Arial, sans-serif;
 }
 
 /* Style for the preview section */
