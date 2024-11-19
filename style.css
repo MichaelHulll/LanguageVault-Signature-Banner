@@ -18,6 +18,7 @@
 /* General styles for the body */
 body {
     font-family: Aptos, Helvetica, Arial, sans-serif;
+    font-weight: normal; /* Default font weight */
 }
 
 /* Style for the form container */
@@ -38,6 +39,7 @@ label {
     color: #404040;
     margin-right: 10px;
     font-family: Aptos, Arial, sans-serif;
+    font-weight: normal; /* Ensure label text is not bold */
 }
 
 input, select {
@@ -47,6 +49,7 @@ input, select {
     border: 1px solid #ccc;
     width: 250px;
     font-family: Aptos, Arial, sans-serif;
+    font-weight: normal; /* Ensure form inputs are not bold */
 }
 
 /* Style for the preview section */
