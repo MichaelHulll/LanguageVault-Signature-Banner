@@ -1,0 +1,35 @@
+/* Style for the form container */
+.form-container {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 18px;
+    color: #1D3447;
+}
+
+label {
+    font-size: 14px;
+    color: #404040;
+    margin-right: 10px;
+}
+
+input, select {
+    font-size: 14px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    width: 250px;
+}
+
+/* Style for the preview section */
+.signature-preview {
+    margin-top: 30px;
+}
+
+#signature {
+    font-family: Aptos, Helvetica, Arial, 'Microsoft Sans Serif', Tahoma, Verdana, sans-serif;
+    width: 300px;
+    font-size: 16px;
+}
