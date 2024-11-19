@@ -1,16 +1,18 @@
 /* Font-face definitions for Aptos */
 @font-face {
     font-family: 'Aptos';
-    src: url('https://raw.githubusercontent.com/MichaelHulll/BIGSignature/main/fonts/Aptos-Regular.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/MichaelHulll/BIGSignature/main/fonts/Aptos-Regular.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Regular.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Regular.woff') format('woff'),
+         url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Regular.ttf') format('truetype');
     font-weight: normal; /* Regular weight */
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Aptos';
-    src: url('https://raw.githubusercontent.com/MichaelHulll/BIGSignature/main/fonts/Aptos-Bold.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/MichaelHulll/BIGSignature/main/fonts/Aptos-Bold.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Bold.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Bold.woff') format('woff'),
+         url('https://raw.githubusercontent.com/MichaelHulll/BIGSignatureBanner/main/fonts/Aptos-Bold.ttf') format('truetype');
     font-weight: bold; /* Bold weight */
     font-style: normal;
 }
